@@ -60,4 +60,4 @@ We may update this Privacy Statement from time to time. Any changes will be post
 
 ## 7. Contact Us
 
-If you have any questions or concerns about our privacy practices, please contact us at [contact@deliveroo.je].
+If you have any questions or concerns about our privacy practices, please contact us at [contact@delivermoo.je].
